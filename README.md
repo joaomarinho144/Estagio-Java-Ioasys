@@ -37,24 +37,24 @@
 Você deverá criar uma API que o site [IMDb](https://www.imdb.com/) irá consultar para exibir seu conteúdo, sua API deverá conter as seguintes funcionalidades:
 
 - Administrador
-    - Cadastro
-    - Edição
-    - Exclusão lógica (desativação)
-    - Listagem de usuários não administradores ativos
-        - Opção de trazer registros paginados
-        - Retornar usuários por ordem alfabética
+    - Cadastro (Feito)
+    - Edição (Feito)
+    - Exclusão lógica (desativação) (Feito)
+    - Listagem de usuários não administradores ativos (Feito)
+        - Opção de trazer registros paginados (Feito)
+        - Retornar usuários por ordem alfabética (Feito)
 - Usuário
-    - Cadastro
-    - Edição
-    - Exclusão lógica (desativação)
+    - Cadastro (Feito)
+    - Edição (Feito)
+    - Exclusão lógica (desativação) (Feito)
 - Filmes
-    - Cadastro (somente um usuário administrador poderá realizar esse cadastro)
-    - Voto (a contagem de votos será feita por usuário de 0-4 que indica quanto o usuário gostou do filme)
-    - Listagem
-        - Opção de filtros por diretor, nome, gênero e/ou atores
-        - Opção de trazer registros paginados
-        - Retornar a lista ordenada por filmes mais votados e por ordem alfabética
-    - Detalhes do filme trazendo todas as informações sobre o filme, inclusive a média dos votos
+    - Cadastro (somente um usuário administrador poderá realizar esse cadastro) (Feito)
+    - Voto (a contagem de votos será feita por usuário de 0-4 que indica quanto o usuário gostou do filme) (Feito)
+    - Listagem (Feito)
+        - Opção de filtros por diretor, nome, gênero e/ou atores (Feito)
+        - Opção de trazer registros paginados (Feito)
+        - Retornar a lista ordenada por filmes mais votados e por ordem alfabética (Feito)
+    - Detalhes do filme trazendo todas as informações sobre o filme, inclusive a média dos votos (Feito)
 
 **Obs.:** 
 
